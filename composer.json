@@ -1,10 +1,10 @@
 {
-    "name": "coinremitter/laravel",
+    "name": "xtodx/coinremitter",
     "description": "this is for direct use of apis of coinremitter into laravel",
     "type": "library",
     "license": "MIT",
     "require": {
-        "laravel/framework": ">=5.2 <=6.7"
+        "laravel/framework": ">=5.2"
     },
     "autoload":{
         "psr-4":{
