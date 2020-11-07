@@ -1,10 +1,10 @@
 # coinremitter-laravel
-coinremitter plugin for laravel
+Coinremitter plugin for laravel upper 5.2
 
 ## installation guide.
 you can install coin remitter plugin using composer in laraval : 
 ```
-composer require coinremitter/laravel
+composer require xtox/laravel
 ```
 ## Register service provider to your config/app.php like below : 
 
